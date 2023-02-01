@@ -7,9 +7,16 @@
         margin: 0 auto;
 }
 
+.initialtitle {
+        font-family: 'Dancing Script', cursive;
+        font-size: 150px;
+        text-align: center;
+        padding: 5px;
+}
+
 nav {
         position: absolute;
-        top: 110px;
+        top: 190px;
         right: 0;
 }
 
@@ -22,7 +29,7 @@ nav a {
         text-transform: uppercase;
         color: #000000;
         font-weight: bold;
-        font-size: 22px;
+        font-size: 25px;
         text-decoration: none;
 }
 
@@ -31,8 +38,42 @@ nav a:hover {
         text-decoration: underline;
 }
 
-.initialtitle {
-        font-family: 'Dancing Script', cursive;
-        font-size: 80px;
+
+
+h2 {
+        padding: 20px;
         text-align: center;
+        font-size: 50px;
+}
+
+.midletitle {
+        text-align: center;
+        text-decoration: underline;
+        font-size: 40;
+}
+
+p {
+        font-size: 25px;
+}
+
+li {
+        list-style-type: none;
+}
+
+.work {
+        text-align: center;
+        font-size: 25px;
+
+}
+
+footer {
+        text-align: center;
+        background: url("bg.jpg");
+        padding: 40px 0;
+}
+
+.copyright {
+        color: #020000;
+        font-size: 13px;
+        margin: 20px 0 0;
 }
