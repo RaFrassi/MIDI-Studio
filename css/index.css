@@ -69,18 +69,24 @@ section img {
 
 .work {
         text-align: center;
-        font-size: 15px;
+        font-size: 20px;
 
+}
+
+.imgfooter {
+        align-items: center;
+        padding: 20px 0;
 }
 
 footer {
         text-align: center;
-        padding: 40px 0;
+        padding: 20px 0;
 }
 
+
 .copyright {
+        padding: 20px;
         color: #020000;
         font-size: 13px;
-        margin: 20px 0 0;
-        right: 0;
+        margin: 30px 0 0;
 }
