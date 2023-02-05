@@ -1,7 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=Itim&display=swap');
 
-h1 img {
+
+
+
+.h1__img {
         width: 100%;
+        height: 30%;
+        object-fit: cover;
+        object-position: bottom;
         margin: auto;
         display: block;
 }
@@ -39,12 +45,15 @@ nav a:hover {
         text-decoration: underline;
 }
 
-
-
 .studio {
         padding: 20px;
         text-align: center;
         font-size: 35px;
+}
+
+.bedroomm {
+        margin-left: 2%;
+        width: 95%;
 }
 
 section p {
